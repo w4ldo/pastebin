@@ -1,0 +1,9 @@
+riskid/risk/game/domain/AlueTest.class
+riskid/risk/game/domain/YksikkoTest.class
+riskid/risk/game/sovelluslogiikka/PeliTest.class
+riskid/risk/game/domain/MannerTest.class
+riskid/risk/game/sovelluslogiikka/JoukkojenLiikuttajaTest.class
+riskid/risk/game/domain/KarttaTest.class
+riskid/risk/game/sovelluslogiikka/LuvunKysyjaTest.class
+riskid/risk/game/domain/PelaajaTest.class
+riskid/risk/game/sovelluslogiikka/MapBuilderTest.class
